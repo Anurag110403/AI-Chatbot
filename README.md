@@ -1,12 +1,30 @@
-# AI Chatbot
+# AI Chatbot 🧠💬
 
-This is a simple AI chatbot built using Python. It uses basic natural language processing logic to interact with users through a command-line interface.
+This is a simple AI chatbot built using Python. It runs in the terminal and responds to basic user input using simple if-else logic. This project demonstrates my understanding of Python and basic AI logic.
 
-## Features
-- Text-based interaction
-- Rule-based responses
-- Easy to extend with NLP or ML models
+---
 
+## 📌 Project Purpose
 
-## Purpose
-This project was created as part of my personal portfolio to demonstrate basic AI and Python skills for internship opportunities.
+I created this project to learn how AI chatbots work and to showcase my skills to recruiters on platforms like Internshala.
+
+---
+
+## 🛠️ Features
+
+- Text-based chatbot in the terminal
+- Uses simple rule-based responses (if-else conditions)
+- Beginner-friendly and easy to modify
+- No external libraries required
+
+---
+
+## ▶️ How to Run the Project
+
+1. Make sure Python is installed on your computer.
+2. Download or clone this repository.
+3. Open a terminal or command prompt in the project folder.
+4. Run the chatbot:
+
+```bash
+python chatbot.py
